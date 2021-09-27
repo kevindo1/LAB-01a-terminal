@@ -6,11 +6,11 @@
 
 ## Setup
 
-If you don't have a `~/alchemy` directory, go make one!
+**If you don't have a `~/alchemy` directory, go make one!**
 
 ## Step by Step Instructions
 
-1. Use this repo as a template:
+1. Use this repo as a _template_:
    ![](./repo-from-template.png)
 1. Copy the url to your version of the template and clone it to your `~/alchemy` folder
    `git clone <your templated url>`
